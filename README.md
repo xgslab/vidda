@@ -1,1 +1,1 @@
-# vidda
+#  things related to my vidda
