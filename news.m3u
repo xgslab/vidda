@@ -62,6 +62,20 @@ https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/pl
 #EXTINF:-1 tvg-id="KNBC41.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png" group-title="News",KNBC-DT1 (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/master.m3u8
 
+#EXTINF:-1 tvg-name="CCTV4" tvg-id="22" tvg-logo="https://tb.zbds.top/logo/CCTV4.png" group-title="News", CCTV4
+http://1.197.250.140:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东南卫视" tvg-id="东南卫视" tvg-logo="https://livecdn.zbds.org/logo/东南卫视.png" group-title="News", 东南卫视
+http://[2409:8087:1a01:df::4035]:80/TVOD/88888888/224/3221225950/main.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-id="贵州卫视" tvg-logo="https://livecdn.zbds.org/logo/贵州卫视.png" group-title="News", 贵州卫视
+http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225974/main.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-id="河北卫视" tvg-logo="https://livecdn.zbds.org/logo/河北卫视.png" group-title="News", 河北卫视
+http://[2409:8087:1a01:df::4035]:80/TVOD/88888888/224/3221225961/main.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-id="天津卫视" tvg-logo="https://livecdn.zbds.org/logo/天津卫视.png" group-title="News", 天津卫视
+http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225972/main.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-id="12" tvg-logo="https://livecdn.zbds.org/logo/浙江卫视.png" group-title="News", 浙江卫视
+http://[2409:8087:1a01:df::4043]:80/TVOD/88888888/224/3221225959/main.m3u8
+
+
 #EXTINF:-1 tvg-id="KRISTV61.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png" group-title="News",KRIS-DT1 (1080p)
 https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8
 
