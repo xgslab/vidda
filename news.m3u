@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/us.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/all/epg.xml"
 
 #EXTINF:-1 tvg-id="ABCNewsLive.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live (1080p) [Geo-blocked]
 https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
